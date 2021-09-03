@@ -1,1 +1,4 @@
-Hello, my name is Christopher Choi and I am working on hw1.  I have edited this.
+Hello, my name is Chris P Choi and I am working on hw1.  I have edited this.
+
+this is before file2
+git is tracking my changes
